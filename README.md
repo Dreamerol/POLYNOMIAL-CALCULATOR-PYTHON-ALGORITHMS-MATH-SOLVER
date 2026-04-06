@@ -43,24 +43,8 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 
 ## 🏗️ Project Structure
 
-Polynomial-Calculator/
-│
-├── src/ # Source files
-│ ├── main.cpp # Entry point
-│ ├── polynomial.cpp # Polynomial class implementation
-│ ├── polynomial.h # Polynomial class header
-│ ├── algorithms.cpp # Helper algorithms (GCD, roots, etc.)
-│ └── algorithms.h # Header for algorithms
-│
-├── tests/ # Test cases
-│ └── test_polynomial.cpp
-│
-├── examples/ # Example usage scripts
-│ └── demo.cpp
-│
-├── CMakeLists.txt # Build configuration (if using CMake)
-├── README.md # Project description and instructions
-└── LICENSE
+![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/7909fe23c9912d7fec2b18a5d963079a9561e1e1/ZPOLYNOMY2.jpg)
+
 
 ---
 

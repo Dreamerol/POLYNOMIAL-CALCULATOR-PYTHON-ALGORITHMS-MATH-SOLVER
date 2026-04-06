@@ -1,4 +1,4 @@
-# 📐 Polynomial Calculator
+<h1 align="center">🧮 POLYNOMIAL CALCULATOR – PYTHON, ALGORITHMS, MATH SOLVER</h1>
 
 ---
 

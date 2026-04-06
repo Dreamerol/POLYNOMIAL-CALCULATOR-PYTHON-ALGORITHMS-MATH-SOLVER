@@ -43,7 +43,6 @@ This project is **designed for learning**, **experimenting with algorithms**, an
 
 ## 🏗️ Project Structure
 
-![](https://github.com/Dreamerol/Dreamerol/blob/f94b6b1a684e1d338d8fd50e4e4d275d85f87c16/Polinom.png)
 
 <p align="center">
   <img src="https://github.com/Dreamerol/Dreamerol/blob/f94b6b1a684e1d338d8fd50e4e4d275d85f87c16/Polinom.png" alt="Polynomial Calculator" width="50%">
